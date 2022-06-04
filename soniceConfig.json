@@ -1,0 +1,89 @@
+{
+  "update": {
+    "title" : "更新",
+    "version" : "22.01.17",
+    "info" : "修复搜索<br>新增分辨率<br>新增下载流量提醒<br>去掉两个广告位<br>优化小窗后台弹出<br>修复备用服无效<br>修复订阅升级异常<br><br>本应用由32位改成64位，<font color=#00a8f3>如果64位您无法使用</font>，请前往QQ群：<font color=#00a8f3>436144129</font>下载<font color=#00a8f3>32位</font>版。",
+       "url" : "https://kimmijin.gitee.io/sonicepro",
+    "visible" : true,
+    "cancelable" : false
+  },
+
+
+
+  "notice": {
+    "title" : "公告",
+    "version" : "22.01.17",
+    "info" : "将于2022年3月1日停止远程视频源服务，给您带来不便敬请谅解！<br> 获取其他破解版影视软件请加 <br> QQ群：4329 或 9501 <br> 到群共享下载。",
+    "time": 10,
+    "visible" : true
+  },
+
+
+
+  "noticeForHome": [
+    {
+      "tips": "搜一下，视界更精彩！",
+      "url": "about:blank"
+    },
+    {
+      "tips": "搜一下，视界更精彩！",
+      "url": "about:blank"
+    },
+    {
+      "tips": "搜一下，视界更精彩！",
+      "url": "about:blank"
+    }
+  ],
+
+
+/*
+ "subscribes": [
+  {
+"name": "公主追剧",
+  "link": "SonicePro://ew0KIm5hbWUiOiLlhazkuLvov73liaciLA0KImRlZmF1bHQiOiJodHRwczovL2dpdGVlLmNvbS9raW1taWppbi9Tb25pY2VQcm8vcmF3L21hc3Rlci92aWRlb1J1bGUuanNvbiIsDQoic3BhcmUiOiJodHRwczovL2dpdGVlLmNvbS9raW1taWppbi9Tb25pY2VQcm8vcmF3L21hc3Rlci92aWRlb1J1bGVCYWsuanNvbiINCn0="
+  }
+ ],
+*/
+
+
+ "subscribeManager": {
+ "update": "22.01.17",
+ "push": [],
+ "forbid": ["订阅1","订阅2"],
+ "close": ["订阅1","订阅2"],
+ "open": ["订阅1","订阅2"],
+ "sort": ["订阅1","订阅2"]
+ },
+
+
+  "noJump": [
+    "v2.thefatherofsalmon.com",
+    "gmanager.php?openread="
+  ],
+
+
+
+  "shieldManager": {
+    "下架模板视频": {
+      "year": "2021",
+      "type": "电影"
+    }
+  },
+
+
+  "setting": {
+    "hldshzeshlh=": "hlh6hb0Xhz0=hlh6hbmX7lh=hlh6hbmYhzd=",
+    "openSuggest": false,
+    "hleshQdshzE=hleshQdshzL=": "hlhghzEHhbm=hlhW7z0Yhld="
+  },
+
+
+  "adSwitch": {
+    "switch": false,
+    "splash": false,
+    "banner": false,
+    "insert": false,
+    "reward": false,
+    "information": false
+  }
+}
